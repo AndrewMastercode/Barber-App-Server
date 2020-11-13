@@ -91,9 +91,9 @@ https://www.figma.com/file/AltVhaULcOTvbHDs2TSd6n/Untitled?node-id=0%3A1
 Git
 The url to your repository and to your deployed project
 
-Client repository Link
+https://github.com/AndrewMastercode/Barber-App-Client
 
-Server repository Link
+https://github.com/AndrewMastercode/Barber-App-Server
 
 Deployed App Link
 
